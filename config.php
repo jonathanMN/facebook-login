@@ -1,8 +1,8 @@
 <?php
 
 /*
- * Get your App ID and App Secret
- * https://developers.facebook.com/
+ * To get App ID and App Secret
+ * create an App in https://developers.facebook.com/
  */
 
 // App ID here 
