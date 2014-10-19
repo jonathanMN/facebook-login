@@ -6,7 +6,7 @@
  */
 
 // App ID here 
-define('APP_ID', '689225881113787');  
+define('APP_ID', '689225881113787');
 
 // App Secret here
 define('APP_SECRET', 'cd3c67939e6ac99201698e288af4ee3c');
