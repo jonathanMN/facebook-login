@@ -6,12 +6,12 @@
  */
 
 // App ID here 
-define('APP_ID', '689225881113787');
+define('APP_ID', '');
 
 // App Secret here
-define('APP_SECRET', 'cd3c67939e6ac99201698e288af4ee3c');
+define('APP_SECRET', '');
 
 // Set Page redirect after login
-define('LOGIN_REDIRECT_PAGE', 'http://localhost/sign-fb/index.php')
+define('LOGIN_REDIRECT_PAGE', '')
 
 ?>
